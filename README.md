@@ -1,15 +1,30 @@
 # CSharp-Advanced
+
 C# Advanced Module Goals:
-Working with linear data structures
 
-Getting familiar with streams and files
+- Working with linear data structures
 
-Creating custom data structures
+- Getting familiar with streams and files
 
-Building class hierarchies
+- Creating custom data structures
 
-Working with exceptions
+- Building class hierarchies
 
-Applying principles and good practices for building quality software
+- Working with exceptions
 
-Testing application correctness
+- Applying principles and good practices for building quality software
+
+- Testing application correctness
+
+C# Advanced Course Goals:
+- Working with linear data structures
+
+- Stacks, queues and multidimensional arrays
+
+- Getting familiar with streams and files
+
+- Creating custom data structures
+List<T>, Stack<T> and LinkedList<T>
+
+- Simple algorithms
+Recursion, Sorting and Searching
